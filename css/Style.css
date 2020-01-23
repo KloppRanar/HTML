@@ -1,0 +1,12 @@
+﻿body
+h2{
+    font-size: 26px;
+    line-height: 0;
+    font-style:normal;
+    color: white;
+}
+#Link_box {
+    width: 200px;
+    height: 50px;
+    border-bottom-color: darkkhaki
+}
